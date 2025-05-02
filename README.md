@@ -82,6 +82,8 @@ Kami membangun dua model **machine learning** untuk memprediksi **Life Expectanc
 
 ## Evaluation
 
+![Visualisasi Hasil Prediksi](Visualisasi-Hasil-Prediksi.jpg)
+
 Kami mengevaluasi kedua model menggunakan dua metrik utama:
 - **RMSE (Root Mean Squared Error)**: Mengukur kesalahan prediksi model.
 - **R² (Koefisien Determinasi)**: Menunjukkan sejauh mana model menjelaskan variasi dalam data target.

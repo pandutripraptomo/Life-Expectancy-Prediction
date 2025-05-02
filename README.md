@@ -27,7 +27,7 @@ Pada bagian ini, kami menjelaskan klarifikasi masalah yang dihadapi.
 - **Solution Statement 2**: Menggunakan **Random Forest** untuk meningkatkan akurasi model dengan menangkap hubungan non-linear antar fitur.
 
 ## Data Understanding
-Dataset yang digunakan dalam proyek ini berasal dari berbagai sumber yang mencakup data sosial, ekonomi, dan kesehatan dari berbagai negara. Dataset ini dapat diunduh melalui [link ke dataset](#). Dataset ini terdiri dari 22 fitur dan target **Life Expectancy**.
+Dataset yang digunakan dalam proyek ini berasal dari berbagai sumber yang mencakup data sosial, ekonomi, dan kesehatan dari berbagai negara. Dataset ini dapat diunduh melalui [link ke dataset](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who). Dataset ini terdiri dari 22 fitur dan target **Life Expectancy**.
 
 ### Variabel-variabel pada dataset adalah sebagai berikut:
 - **Country**: Negara tempat data dikumpulkan.

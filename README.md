@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - [Nama Anda]
+# Laporan Proyek Machine Learning - Pandu Tri Praptomo
 
 ## Domain Proyek
 Pada proyek ini, kami berfokus pada prediksi **Life Expectancy** (harapan hidup) menggunakan teknik **Machine Learning**. Data yang digunakan mencakup berbagai faktor sosial, ekonomi, dan kesehatan yang mempengaruhi harapan hidup di berbagai negara. Dengan menggunakan teknik **predictive analytics**, proyek ini bertujuan untuk membangun model yang dapat memprediksi harapan hidup berdasarkan data yang ada.

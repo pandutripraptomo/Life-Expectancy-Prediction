@@ -82,7 +82,7 @@ Kami membangun dua model **machine learning** untuk memprediksi **Life Expectanc
 
 ## Evaluation
 
-![Visualisasi Hasil Prediksi](Visualisasi-Hasil-Prediksi.jpg)
+[![Visualisasi Hasil Prediksi]([Visualisasi-Hasil-Prediksi.jp](https://github.com/pandutripraptomo/Life-Expectancy-Prediction/blob/b55afcb79f1642328b26995461c86867741d58a9/Visualisasi%20Hasil%20Prediksi.jpg))](https://github.com/pandutripraptomo/Life-Expectancy-Prediction/blob/b55afcb79f1642328b26995461c86867741d58a9/Visualisasi%20Hasil%20Prediksi.jpg)
 
 Kami mengevaluasi kedua model menggunakan dua metrik utama:
 - **RMSE (Root Mean Squared Error)**: Mengukur kesalahan prediksi model.

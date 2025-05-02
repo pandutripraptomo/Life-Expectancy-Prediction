@@ -7,7 +7,8 @@ Pada proyek ini, kami berfokus pada prediksi **Life Expectancy** (harapan hidup)
 Masalah **Life Expectancy** harus diselesaikan karena prediksi yang akurat sangat penting dalam perencanaan kebijakan kesehatan dan ekonomi di suatu negara. Memahami faktor-faktor yang mempengaruhi harapan hidup dapat membantu dalam merancang program yang lebih efektif untuk meningkatkan kualitas hidup masyarakat.
 
 Referensi:
-- Smith, J. (2020). "Impact of Socio-Economic Factors on Life Expectancy." *Journal of Health Economics*.
+- [Smith, J. (2020)]. ("Impact of Socio-Economic Factors on Life Expectancy." *Journal of Health Economics*. 
+https://mpra.ub.uni-muenchen.de/70871/) 
 
 ## Business Understanding
 Pada bagian ini, kami menjelaskan klarifikasi masalah yang dihadapi.
